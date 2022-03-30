@@ -5,6 +5,10 @@
 -    CLV'yi bilmek, işletmelerin kar marjlarını korurken yeni müşteriler edinme ve mevcut müşterileri elde tutma stratejileri geliştirmelerine yardımcı olur.
 
 
+![image](https://user-images.githubusercontent.com/56341239/160936922-a5a200fa-17c3-4a3f-81ac-5a3fd14e6d3d.png)
+
+
+
 ## Customer Life Time Value Prediction by Using BG-NBD & Gamma-Gamma (BG-NBD ve Gamma-Gamma modelleri ile CLTV Tahmini)
 
 Bu teknikleri kullanarak:
@@ -13,6 +17,10 @@ Bu teknikleri kullanarak:
   -   Müşteri, işimiz için nasıl bir değer yaratacak?
   
 gibi önemli değerlerin cevabını bulabiliriz.
+
+
+![image](https://user-images.githubusercontent.com/56341239/160936747-d2663080-e9f2-4dfc-bb32-bad6334b2e0a.png)
+
 
 
 *    BG-NBD Modeli, her müşterinin satın alma davranışlarının dağılımını modelleyecek ve her müşteri için beklenen işlem sayısını tahmin edecektir.
