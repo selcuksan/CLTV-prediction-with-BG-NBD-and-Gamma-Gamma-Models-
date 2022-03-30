@@ -15,9 +15,9 @@ Bu teknikleri kullanarak:
 gibi önemli değerlerin cevabını bulabiliriz.
 
 
-*     BG-NBD Modeli, her müşterinin satın alma davranışlarının dağılımını modelleyecek ve her müşteri için beklenen işlem sayısını tahmin edecektir.
+*    BG-NBD Modeli, her müşterinin satın alma davranışlarının dağılımını modelleyecek ve her müşteri için beklenen işlem sayısını tahmin edecektir.
 
-*     Gama-Gama Alt Modeli, beklenen ortalama kar dağılımını modelleyecek ve her müşteri için beklenen ortalama karı tahmin edecektir.
+*    Gama-Gama Alt Modeli, beklenen ortalama kar dağılımını modelleyecek ve her müşteri için beklenen ortalama karı tahmin edecektir.
 
 ### BG-NBD Model
 
