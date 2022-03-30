@@ -34,6 +34,7 @@ Bu model, beklenen işlem sayısını tahmin etmek için olasılığı kullanara
 
 ### Gamma-Gamma Submodel
 -   Bu modeli, her bir müşteri için ne kadar ortalama kâr elde edebileceğimizi tahmin etmek için kullanırız. Kitle için ortalama karı modelledikten sonra bize her müşteri için beklenen ortalama karı verir.
+
         -   Bir müşterinin parasal değeri (bir müşterinin işlem miktarlarının toplamı), işlem değerlerinin ortalaması etrafında rastgele dağıtılacaktır. 
         -   Ortalama bir işlem değeri müşteriler arasındaki dönemlerde değişebilir ancak bir müşteri için değişmez. 
         -   Ortalama işlem değeri, tüm müşteriler arasında gama olarak dağıtılacaktır.
