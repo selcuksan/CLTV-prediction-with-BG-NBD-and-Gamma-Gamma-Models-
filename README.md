@@ -1,8 +1,8 @@
 # Müşteri Yaşam Boyu Değeri(CLTV) nedir?
 
--     Müşteri yaşam boyu değeri (CLTV), müşteri deneyimi programının bir parçası olarak izlenmesi gereken önemli istatistiklerden biridir. CLTV, yalnızca satın alma bazında değil, tüm ilişki genelinde bir müşterinin şirketiniz için ne kadar değerli olduğunun bir ölçümüdür.
--     CLTV, bir müşterinin tüm ilişkileri boyunca bir işletmeye verdiği toplam değerdir. Mevcut müşterileri elde tutmak, yenilerini kazanmaktan daha az maliyetli olduğu için önemli bir ölçümdür, bu nedenle mevcut müşterilerinizin değerini artırmak, büyümeyi sağlamak için harika bir yoldur.
--     CLV'yi bilmek, işletmelerin kar marjlarını korurken yeni müşteriler edinme ve mevcut müşterileri elde tutma stratejileri geliştirmelerine yardımcı olur.
+-    Müşteri yaşam boyu değeri (CLTV), müşteri deneyimi programının bir parçası olarak izlenmesi gereken önemli istatistiklerden biridir. CLTV, yalnızca satın alma bazında değil, tüm ilişki genelinde bir müşterinin şirketiniz için ne kadar değerli olduğunun bir ölçümüdür.
+-    CLTV, bir müşterinin tüm ilişkileri boyunca bir işletmeye verdiği toplam değerdir. Mevcut müşterileri elde tutmak, yenilerini kazanmaktan daha az maliyetli olduğu için önemli bir ölçümdür, bu nedenle mevcut müşterilerinizin değerini artırmak, büyümeyi sağlamak için harika bir yoldur.
+-    CLV'yi bilmek, işletmelerin kar marjlarını korurken yeni müşteriler edinme ve mevcut müşterileri elde tutma stratejileri geliştirmelerine yardımcı olur.
 
 
 ## Customer Life Time Value Prediction by Using BG-NBD & Gamma-Gamma (BG-NBD ve Gamma-Gamma modelleri ile CLTV Tahmini)
